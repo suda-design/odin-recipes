@@ -1,0 +1,39 @@
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgb(241, 215, 182);
+  padding: 10px;
+}
+
+img {
+  border: 5px solid rgb(213, 163, 12);
+}
+
+h2 {
+  padding: 5px;
+  padding-left: 10px;
+  background-color: aliceblue;
+}
+
+h3 {
+  background-color: lemonchiffon;
+  width: 50%;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px auto;
+}
+
+ul,
+ol {
+  background-color: gold;
+}
+
+li {
+  background-color: bisque;
+  padding: 10px;
+  border: 2px solid white;
+}
+
+a {
+  color: blue;
+}
